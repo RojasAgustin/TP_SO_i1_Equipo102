@@ -6,9 +6,11 @@ Si, se pueden ver los datos modificados.
 B)
 Si, el archivo aparece para todos los colaboradores.
 
-C)
+C) 
+Si, el archivo aparece para todos los colaboradores.
 
 D)
+Nos comunicamos a través de la plataforma de Discord.
 
 E)
 A través de notas en la pestaña Projects
