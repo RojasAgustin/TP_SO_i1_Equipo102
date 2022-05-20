@@ -4,6 +4,7 @@ A)
 Si, se pueden ver los datos modificados.
 
 B)
+Si, el archivo aparece para todos los colaboradores.
 
 C)
 
